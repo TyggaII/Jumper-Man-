@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DelayButton
+comment1.params=txt\ val\ delayAmt\ delaying
+comment1.target=DelayButton(java.lang.String,\ int,\ int,\ boolean)
+comment2.params=txt\ val\ txtSize\ txtColor\ btnColor\ delayAmt\ delaying
+comment2.target=DelayButton(java.lang.String,\ int,\ int,\ greenfoot.Color,\ greenfoot.Color,\ int,\ boolean)
+comment3.params=delayAmt\ delaying
+comment3.target=void\ setDelay(int,\ boolean)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ delay()
+numComments=6
